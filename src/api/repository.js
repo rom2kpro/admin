@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseDomain = 'http://127.0.0.1:5000';
+const baseDomain = 'http://103.153.72.153:5000';
 const baseUrl = `${baseDomain}`;
 
 const Repository = axios.create({
